@@ -1,7 +1,7 @@
 # Classification_Algorithms_ML
 This repo contains several exercises of the commonly used classification algorithms in ML, which were implemented in R and Python.
 
-The classification algorithms that are to be performed within the scope of this project are listed below. The first three of them were already carried out and the rest will be conducted step by step.
+The classification algorithms that are to be performed within the scope of this project are listed below. The first four of them were already carried out and the rest will be conducted step by step.
 
 * Logistic Regression
 * K - Nearest Neighbors (K-NN)
